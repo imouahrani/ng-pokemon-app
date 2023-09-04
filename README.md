@@ -1,8 +1,6 @@
 # NgPokemonApp
 
-Création d'une application web avec Angular, grâce au tuto de Simon Dieny.
-Lien vers l'application web :  https://hakim-2206.github.io/angular-pokemon-app/
-
+Création d'une application web avec Angular.
 - Découverte d'Angular
 - Générer des composants 
 - Les Templates
