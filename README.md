@@ -13,5 +13,5 @@ Création d'une application web avec Angular.
 - RxJS (librairie)
 - Authentification et Sécurité
 
-- Cliquez ici : https://imouahrani.github.io/ng-pokemon-app
+Cliquez ici : https://imouahrani.github.io/ng-pokemon-app
   
