@@ -14,4 +14,7 @@ Création d'une application web avec Angular.
 - Authentification et Sécurité
 
 Cliquez ici : https://imouahrani.github.io/ng-pokemon-app
-  
+- Username : pikachu
+- Password : pikachu
+
+
